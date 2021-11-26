@@ -244,7 +244,7 @@
     "Boxes.FPCollector.st_patricks_task_reward": "St. Patrick's Day - Aufgabe",
     "Boxes.FPCollector.wildlife_event": "Wildpark Event",
     "Boxes.FPCollector.winterEvent": "Winterevent",
-    "Boxes.FPCollector.winterEventGrandPrize": "Winterevent - Hauptpreis",
+    "Boxes.FPCollector.winterEventGandPrize": "Winterevent - Hauptpreis",
     "Boxes.General.Export": "Export",
     "Boxes.General.ExportCSV": "Exportieren als CSV",
     "Boxes.General.ExportJSON": "Exportieren als jSON",
@@ -1099,5 +1099,6 @@
 	"Kits.Sets.WinterCanal": "Winterkanal",
 	"Boxes.FPCollector.halloweenEvent":  "Halloween Event",
 	"Boxes.FPCollector.halloweenEventAutoCollect": "Halloween Event - Kürbis",
-	"Boxes.FPCollector.summerEvent": "Sommerevent"
+  "Boxes.FPCollector.summerEvent": "Sommerevent",
+  "Boxes.FPCollector.summerEventGrandPrize": "Sommerevent - Hauptpreis"
 }
